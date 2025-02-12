@@ -1,2 +1,2 @@
-# BN1437
+# Baindla Nithin
 Hello world, this is my profile
